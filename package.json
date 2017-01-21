@@ -1,6 +1,6 @@
 {
   "name": "text-rpg",
-  "version": "1.0.0",
+  "version": "v0.0.0",
   "description": "A framework for building text based adventure games.",
   "author": "David R. Myers II <davidrmyersii@gmail.com>",
   "private": true,
